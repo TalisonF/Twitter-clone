@@ -1,5 +1,5 @@
 "Twitter-clone" 
-Para testar a aplicação basta subir o servidor na pasta public da aplicação. E fazer as alterações necessarias no arquivo "Connection.php" para o seu banco de dados. E criar as tabelas a seguir: 
+Para testar a aplicação basta subir o servidor na pasta public da aplicação. E fazer as alterações necessárias no arquivo "Connection.php" para o seu banco de dados. E criar as tabelas a seguir: 
 
 CREATE TABLE  usuarios (
     id INT(11) NOT NULL PRIMARY KEY auto_increment,
