@@ -1,4 +1,8 @@
-"Twitter-clone" 
+# Twitter-clone
+Aplicação Web similar ao Twitter.
+
+## Como Testar
+
 Para testar a aplicação basta subir o servidor na pasta public da aplicação. E fazer as alterações necessárias no arquivo "Connection.php" para o seu banco de dados. E criar as tabelas a seguir: 
 
 CREATE TABLE  usuarios (
